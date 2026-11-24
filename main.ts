@@ -1,6 +1,7 @@
 // Alien Field Notes: an alien tourist's review of Earth. Five
 // stars for the sunsets — one star because the locals charge
-// rent to stand on the good parts. The review is the rent.
+// rent to stand on the good parts. The review is the rent. The
+// sunsets are free; the standing room is not.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
